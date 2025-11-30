@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Моя перша HTML сторінка</title>
+</head>
+<body>
+    <h1>Мій перший заголовок</h1>
+    <p>Мій перший параграф.</p>
+</body>
+</html>
