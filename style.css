@@ -1,0 +1,36 @@
+/* Фон всієї сторінки */
+body {
+    background-color: #ffe6f2; /* блідо-рожевий */
+    color: #004d00; /* темно-зелений текст */
+    font-size: 18px;
+}
+
+/* Заголовок */
+#main-title {
+    text-align: center;      /* по центру */
+    font-weight: bold;       /* жирний */
+    text-decoration: underline; /* підкреслений */
+    font-size: 32px;
+}
+
+/* Фото */
+#main-photo {
+    display: block;
+    margin: 0 auto; /* фото по центру */
+}
+
+/* Опис */
+.description {
+    color: #004d00; /* темно-зелений текст */
+}
+
+/* Навігація */
+#main-nav a {
+    color: #004d00; /* темно-зелений текст */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#main-nav a:hover {
+    text-decoration: underline;
+}
